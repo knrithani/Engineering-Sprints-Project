@@ -1,4 +1,4 @@
-# Engineering-Sprints-Project
+# Optimal path finder
 
 ## OPTIFY - AN OPTIMAL FINDING AGENT
 
